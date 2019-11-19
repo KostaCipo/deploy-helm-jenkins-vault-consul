@@ -1,0 +1,2 @@
+service/kubernetes-vault
+init-container/kubernetes-vault-init
